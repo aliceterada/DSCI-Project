@@ -1,2 +1,0 @@
-# DSCI-Project
-dsci project
